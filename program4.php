@@ -34,7 +34,3 @@ Winter months->12, 1, 2
 		break;
 	}
 ?>
-
-Output :
-Spring
-
