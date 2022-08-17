@@ -1,5 +1,3 @@
-2.Write a function that sums the values of three numbers.
-
 <?php 
 	function sum() { 
 		$a=5;
