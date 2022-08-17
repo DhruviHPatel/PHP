@@ -11,6 +11,3 @@ ternary operator.
   
   	echo "Largest number is : $max"; 
 ?> 
-
-Output :
-Largest number is : 15
