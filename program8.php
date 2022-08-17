@@ -1,7 +1,3 @@
-<!-- 8. Create an associative array using the states as keys, the cities
-as values and transform it into 2-dimensional array and display
-the data as a table.
-
 <html>
 <body>
 	<table border="2">
@@ -21,9 +17,4 @@ the data as a table.
 </body>
 </html>
 
-Output :
-State	City
-Gujarat	Ahmedabad
-Maharastra	Mumbai
-Kerala	Thiruvananthapuram -->
 
