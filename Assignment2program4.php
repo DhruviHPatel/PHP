@@ -1,5 +1,5 @@
 <?php
-	$arr=array(1=>'dhruvi',2=>'dhwani',3=>'mittal',4=>'arina',5=>'prapti');
+	$arr=array(1=>'alice',2=>'bob',3=>'mark',4=>'flora',5=>'john');
 
 	echo "Elements of an array along with key"."<br>";
 	foreach ($arr as $key => $value) {
