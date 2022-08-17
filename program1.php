@@ -10,12 +10,3 @@ a while loop.
 		$a++;
 	}
 ?>
-
-
-Output
-
-dhruvi
-dhruvi
-dhruvi
-dhruvi
-dhruvi
