@@ -1,10 +1,3 @@
-4.Use control statements to check the season of the year given
-the month as a number.
-Spring months-> 3, 4, 5
-Summer months->6, 7, 8
-Autumn months->9, 10, 11
-Winter months->12, 1, 2
-
 <?php
 	$mon=5;
 
