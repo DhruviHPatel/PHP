@@ -1,10 +1,3 @@
-6. Write a program that will accept an array of integers as input,
-and output an array where for each item in the source array, the
-new array will perform the following operations:
-For even numbers divide by 2
-For odd numbers multiply by 3
-
-
 <?php
 	$num[0]=1;
 	$num[1]=2;
@@ -32,9 +25,3 @@ For odd numbers multiply by 3
 	 	echo "$n1"." ";
 	 } 
 ?>
-
-Output :
-Source Array
-1 2 3 4 5
-New Array
-3 1 9 2 15
