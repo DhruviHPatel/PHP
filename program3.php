@@ -1,6 +1,3 @@
-3.Write a program to find largest among three numbers using
-ternary operator.
-
 <?php 
 
 	$a = 5; 
